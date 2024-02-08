@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channel>
     <item id="102689" available="true" type="medicine">
+      <id>102689</id>
       <pharma_reg_number>П N012507/01</pharma_reg_number>
       <barcode>3534510000269</barcode>
       <param name="BrandName">Ренни</param>
@@ -19,6 +20,7 @@
       <param name="drug_type">ОТС</param>
     </item>
     <item id="320204" available="true" type="medicine">
+      <id>320204</id>
       <pharma_reg_number>ЛП-006933</pharma_reg_number>
       <url>https://www.eapteka.ru/spb/goods/id320204/</url>
       <price>451</price>
@@ -36,6 +38,7 @@
       <param name="Пол">Женский</param>
     </item>
     <item id="521258" available="true" type="medicine">
+      <id>521258</id>
       <barcode>8901296060056</barcode>
       <pharma_reg_number>ЛП-006933d3333</pharma_reg_number>
       <param name="BrandName">Колдакт</param>
