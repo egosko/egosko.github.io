@@ -6,7 +6,7 @@
       <barcode>3534510000269</barcode>
       <param name="BrandName">Ренни</param>
       <url>https://www.eapteka.ru/spb/goods/id102689/</url>
-      <price>343</price>
+      <price>6000000 RUB</price>
       <cpa>0</cpa>
       <pickup>true</pickup>
       <currencyId>RUB</currencyId>
@@ -23,7 +23,7 @@
       <id>320204</id>
       <pharma_reg_number>ЛП-006933</pharma_reg_number>
       <url>https://www.eapteka.ru/spb/goods/id320204/</url>
-      <price>451</price>
+      <price>6000000 RUB</price>
       <cpa>0</cpa>
       <pickup>true</pickup>
       <currencyId>RUB</currencyId>
@@ -43,7 +43,7 @@
       <pharma_reg_number>ЛП-006933d3333</pharma_reg_number>
       <param name="BrandName">Колдакт</param>
       <url>https://www.eapteka.ru/spb/goods/id521258/</url>
-      <price>517</price>
+      <price>6000000 RUB</price>
       <cpa>0</cpa>
       <pickup>true</pickup>
       <currencyId>RUB</currencyId>
