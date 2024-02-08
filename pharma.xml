@@ -6,7 +6,7 @@
         <pharma_reg_number>П N012507/01</pharma_reg_number>
         <barcode>3534510000269</barcode>
         <param name="BrandName">Ренни</param>
-        <url>https://www.eapteka.ru/spb/goods/id102689/?utm_campaign=3865&amp;utm_content=3864&amp;utm_term=102689&amp;utm_source=ymarket_spb&amp;utm_medium=cpc</url>
+        <url>https://www.eapteka.ru/spb/goods/id102689/</url>
         <price>343</price>
         <cpa>0</cpa>
         <pickup>true</pickup>
@@ -23,7 +23,7 @@
       </offer>
       <offer id="320204" available="true" type="medicine">
         <barcode>ЛП-006933</barcode>
-        <url>https://www.eapteka.ru/spb/goods/id320204/?utm_campaign=8324&amp;utm_content=8186&amp;utm_term=320204&amp;utm_source=ymarket_spb&amp;utm_medium=cpc</url>
+        <url>https://www.eapteka.ru/spb/goods/id320204/</url>
         <price>451</price>
         <cpa>0</cpa>
         <pickup>true</pickup>
@@ -43,7 +43,7 @@
         <barcode>8901296060056</barcode>
         <barcode>ЛП-006933d3333</barcode>
         <param name="BrandName">Колдакт</param>
-        <url>https://www.eapteka.ru/spb/goods/id521258/?utm_campaign=3884&amp;utm_content=3878&amp;utm_term=521258&amp;utm_source=ymarket_spb&amp;utm_medium=cpc</url>
+        <url>https://www.eapteka.ru/spb/goods/id521258/</url>
         <price>517</price>
         <cpa>0</cpa>
         <pickup>true</pickup>
