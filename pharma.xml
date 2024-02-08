@@ -7,6 +7,8 @@
       <param name="BrandName">Ренни</param>
       <url>https://www.eapteka.ru/spb/goods/id102689/</url>
       <price>6000000 RUB</price>
+      <dosage>680 мг+80 мг</dosage>
+      <form_factor>таблетки</form_factor>
       <cpa>0</cpa>
       <pickup>true</pickup>
       <currencyId>RUB</currencyId>
